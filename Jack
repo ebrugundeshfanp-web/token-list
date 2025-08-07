@@ -1,0 +1,9 @@
+{
+  "chainId": 101,
+  "address": "DQ2Ueabws4EwYdwqLmWuf4gkxQg6i1Yn9W6B8MpLpump",
+  "symbol": "JACK",
+  "name": "Jackdaniels",
+  "decimals": 9,
+  "logoURI": "https://yourdomain.com/jackdaniels-logo.png",
+  "tags": ["community", "meme"]
+}
